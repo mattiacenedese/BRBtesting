@@ -1,6 +1,6 @@
 # BRBtesting
 
-![alt text](https://github.com/mattiacenedese/BRBtesting/BRBsetup.png)
+![Break-Reuss Beam Experimental Setup](BRBsetup.png)
 
 This repository contains and shows data from experimental testing on a Brake-Reuss beam, using MATLAB files. The data features measurements from hammer impacts, resonance decay and forced frequency responses. All these tests have been recorded with accelerometers and DIC data from high speed camera measurements is present for the resonance decay test.
 
